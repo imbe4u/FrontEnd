@@ -1,0 +1,8 @@
+table,tr,th,td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+th{
+    background-color: #91db55;
+}
